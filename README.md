@@ -1,0 +1,1 @@
+Implementing stack data structure to javascript with class method.
